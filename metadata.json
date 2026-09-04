@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Tráfego Pago",
+  "description": "Dashboard SaaS e gerador de relatórios mensais de performance de tráfego pago por cliente para gestores de tráfego.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
